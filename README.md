@@ -1,6 +1,6 @@
 # trygraphql
 
-# Beginners Guide
+## Beginners Guide
 - Hello World in Graphene
 - Syntax in Graphene / Snakecase vs Camelcase
 - Object Types, Arguments in Queries
